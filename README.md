@@ -28,7 +28,7 @@ Solo están las prácticas 1, 2 y 6.
 ### [Probabilidad (1er parcial)](2025/Parciales/Probabilidad%20%281er%20parcial%29/)
 
 - [Cátedra](2025/Parciales/Probabilidad%20%281er%20parcial%29/Cátedra/): enunciados y resoluciones de la cátedra de 2022 a 2024 (PDF e imágenes).
-- [Propios](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/): parciales resueltos propios: [19/5/2022](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/Parcial_19-5-2022.pdf), [18/5/2023](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/Parcial_18-5-2023.pdf) y [17/10/2023](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/Parcial_17-10-2023.pdf).
+- [Propios](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/): parciales resueltos propios: [19/05/2022](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/Parcial_19-5-2022.pdf), [18/05/2023](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/Parcial_18-5-2023.pdf) y [17/10/2023](2025/Parciales/Probabilidad%20%281er%20parcial%29/Propios/Parcial_17-10-2023.pdf).
 
 ### [Estadística (2do parcial)](2025/Parciales/Estadística%20%282do%20parcial%29/)
 
